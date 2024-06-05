@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "WROGN",
+        "img": "images/p1.jpg",
+        "price": 799,
+        "info": "Printed Cotton t-shirt"
+    },
+    {
+        "id": 2,
+        "title": "Dyson",
+        "img": "images/p2.jpg",
+        "price": 25999,
+        "info": "This product is good"
+    },
+    {
+        "id": 3,
+        "title": "RedTape",
+        "img": "images/p3.jpg",
+        "price": 2999,
+        "info": "Memory Foam Running Shoes"
+    },
+    {
+        "id": 4,
+        "title": "Peter England",
+        "img": "images/p4.jpg",
+        "price": 1499,
+        "info": "Mens Slim Fit Jeans"
+    },
+    {
+        "id": 5,
+        "title": "Nike",
+        "img": "images/p5.jpg",
+        "price": 14999,
+        "info": "men Air Jordan 1 Sneaker"
+    },
+    {
+        "id": 6,
+        "title": "Allen Solly",
+        "img": "images/p6.jpg",
+        "price": 999,
+        "info": "Slim Fit Cotton Casual Shirt"
+    }
+]
